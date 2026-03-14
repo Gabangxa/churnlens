@@ -95,31 +95,7 @@ stripe listen --forward-to localhost:3000/api/webhooks/stripe
 
 ---
 
-## Pricing
 
-| Plan | Price | Limit |
-|------|-------|-------|
-| Free | $0 | 10 cancellations/mo |
-| Starter | $29/mo | 100 cancellations/mo + AI themes + weekly digest |
-| Growth | $79/mo | Unlimited + Slack + CSV export + custom questions |
-
-**Launch offer:** $299 lifetime deal (Starter tier) — Product Hunt / Indie Hackers.
-
----
-
-## Path to $10K MRR
-
-- 345 Starter subscribers **or**
-- 127 Growth subscribers **or**
-- Mix: ~200 Starter + ~50 Growth
-
-Distribution: Indie Hackers, Product Hunt, Twitter #buildinpublic, Hacker News Show HN, r/SaaS.
-
----
-
-## Contributing
-
-This is a mockup / early-stage repo. Issues and PRs welcome.
 
 ## License
 
